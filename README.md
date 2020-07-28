@@ -1,6 +1,6 @@
 Features of This Repo:
 # 1. Travelling Salesperson Art
-![](article/image_stippled.png)
+![](article/image_stipple.png)
 gets converted to:
 ![](article/shasta_tsp.png)
 
