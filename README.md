@@ -1,6 +1,9 @@
 Features of This Repo:
 # 1. Travelling Salesperson Art
-![](article/example_tsp.png)
+![](article/image_stippled.png)
+gets converted to:
+![](article/shasta_tsp.png)
+
 
 # 2. Weighted Voronoi Stippling
 
