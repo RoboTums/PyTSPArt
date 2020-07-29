@@ -107,3 +107,5 @@ optional arguments:
    --display             Display final result
    --interactive         Display intermediate results (slower)
 ```
+# For more info:
+Check out Opt Art: From Mathematical Optimization to Visual Design  by Robert Bosch.
